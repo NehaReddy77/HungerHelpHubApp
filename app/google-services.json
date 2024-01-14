@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424619912510",
+    "project_id": "hungerhelphub",
+    "storage_bucket": "hungerhelphub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424619912510:android:46e3d491ea934f5c8c106f",
+        "android_client_info": {
+          "package_name": "mypackage.h2hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSGAthW91wu8MkvnXP4niWHbMlJXEEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
